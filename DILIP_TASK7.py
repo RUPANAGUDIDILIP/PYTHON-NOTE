@@ -20,6 +20,15 @@ for i in x:
 
 # In[ ]:
 
+ouput: 
+
+1 2 hello
+
+5 hello
+
+hello
+
+13 14 hello
 
 
 
