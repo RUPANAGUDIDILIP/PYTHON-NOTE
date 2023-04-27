@@ -1,0 +1,2 @@
+# PYTHON-NOTE
+nested loop
